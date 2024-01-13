@@ -1,0 +1,7 @@
+projeto\api\backendcrud\repositories\PeopleRepository.class
+projeto\api\backendcrud\services\PeopleService.class
+projeto\api\backendcrud\BackendCrudApplication.class
+projeto\api\backendcrud\model\People.class
+projeto\api\backendcrud\controllers\PeopleController.class
+projeto\api\backendcrud\DTOs\PeopleDTO.class
+projeto\api\backendcrud\config\Config.class
