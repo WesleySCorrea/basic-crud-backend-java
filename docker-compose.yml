@@ -1,0 +1,31 @@
+version: '3'
+
+services:
+  backend-crud:
+    container_name: backend-crud
+    image: wesleyscorrea/basic_backend_crud:0.1
+    environment:
+      - DB_ADDR=database-postgres
+      - DB_DATABASE=postgres-database
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - DB_PORT=5432
+      - SERVER_PORT=8090
+      - PROFILE_ENV=deploy
+    ports:
+      - "8090:8090"
+    depends_on:
+      - database-postgres
+
+  database-postgres:
+    container_name: database-postgres
+    image: postgres
+    environment:
+      - POSTGRES_DB=postgres-database
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+    ports:
+      - "5432:5432"
+
+networks:
+  project-basic-crud-network:

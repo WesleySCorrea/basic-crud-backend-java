@@ -1,7 +1,7 @@
-C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\projeto-api-keycloak-database\backend-crud\src\main\java\projeto\api\backendcrud\repositories\PeopleRepository.java
-C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\projeto-api-keycloak-database\backend-crud\src\main\java\projeto\api\backendcrud\BackendCrudApplication.java
-C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\projeto-api-keycloak-database\backend-crud\src\main\java\projeto\api\backendcrud\controllers\PeopleController.java
-C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\projeto-api-keycloak-database\backend-crud\src\main\java\projeto\api\backendcrud\DTOs\PeopleDTO.java
-C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\projeto-api-keycloak-database\backend-crud\src\main\java\projeto\api\backendcrud\config\Config.java
-C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\projeto-api-keycloak-database\backend-crud\src\main\java\projeto\api\backendcrud\model\People.java
-C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\projeto-api-keycloak-database\backend-crud\src\main\java\projeto\api\backendcrud\services\PeopleService.java
+C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\estudos\artigos\Artigo 1 - Aplicações Baclend em Java - 01-2024\basic-crud-backend-java\src\main\java\projeto\api\backendcrud\config\Config.java
+C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\estudos\artigos\Artigo 1 - Aplicações Baclend em Java - 01-2024\basic-crud-backend-java\src\main\java\projeto\api\backendcrud\DTOs\PeopleDTO.java
+C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\estudos\artigos\Artigo 1 - Aplicações Baclend em Java - 01-2024\basic-crud-backend-java\src\main\java\projeto\api\backendcrud\repositories\PeopleRepository.java
+C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\estudos\artigos\Artigo 1 - Aplicações Baclend em Java - 01-2024\basic-crud-backend-java\src\main\java\projeto\api\backendcrud\controllers\PeopleController.java
+C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\estudos\artigos\Artigo 1 - Aplicações Baclend em Java - 01-2024\basic-crud-backend-java\src\main\java\projeto\api\backendcrud\BackendCrudApplication.java
+C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\estudos\artigos\Artigo 1 - Aplicações Baclend em Java - 01-2024\basic-crud-backend-java\src\main\java\projeto\api\backendcrud\model\People.java
+C:\Users\Wesle\OneDrive\Área de Trabalho\Workspace\aplicação\estudos\artigos\Artigo 1 - Aplicações Baclend em Java - 01-2024\basic-crud-backend-java\src\main\java\projeto\api\backendcrud\services\PeopleService.java
